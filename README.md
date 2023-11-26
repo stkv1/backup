@@ -35,7 +35,7 @@
 
 `/var/log/syslog`:
 
-![text](https://github.com/stkv1/backup/blob/main/img/10.PNG)
+![text](https://github.com/stkv1/backup/blob/main/img/07.PNG)
 
 
 ## Задание 3*
